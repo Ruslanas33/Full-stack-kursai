@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+}
+.title {
+    color: red;
+    text-align: center;
+}
+.title2 {
+    color: black;
+    text-align: center;
+}
+
+.w3-bar {
+    background-color: black;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0%;
+    left: 0%;
+    border-radius: 30px;
+
+}
+.w3-right {
+    margin-right: 100px;
+    padding: 5px;
+}
+.bar {
+    color: gold;
+    text-align: center;
+    padding-left: 20px;
+}
