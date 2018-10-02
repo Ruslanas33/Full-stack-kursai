@@ -1,0 +1,42 @@
+.fon {
+    background-color: brown;
+    color: #80687B;
+    width: 100%;
+    height: 420px;
+    padding-top: 10px;
+
+}table, td, th {
+     border: 2px solid #A29797;
+    border-bottom: 5px solid #A29797;
+    border-top: none;
+    border-left: none;
+    padding-left: 10px;
+ }
+table {
+    border-collapse: collapse;
+    width: 25%;
+    height: 300px;
+}
+.table0 {
+    margin-left: 40%;
+    border: none;
+
+}
+.table1 {
+    height: 0;
+    background: rgba(76, 175, 80, 0.7);
+    padding: 10px 10px 10px 5px;
+}
+#table2 {
+    background-color: white;
+    color: blue;
+}
+h4 {
+    color: white;
+
+}
+
+.first {
+    background: rgba(76, 175, 80, 0.3);
+}
+
