@@ -7,10 +7,10 @@
 
 }table, td, th {
      border: 2px solid #A29797;
-    border-bottom: 5px solid #A29797;
-    border-top: none;
-    border-left: none;
-    padding-left: 10px;
+     border-bottom: 5px solid #A29797;
+     border-top: none;
+     border-left: none;
+     padding-left: 10px;
  }
 table {
     border-collapse: collapse;

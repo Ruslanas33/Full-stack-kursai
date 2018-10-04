@@ -1,0 +1,72 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+textarea {
+    resize: none;
+}
+.block {
+    height: 100%;
+    width: 980px;
+    margin: auto;
+}
+.block-A {
+    height: 80px;
+    width: 75%;
+    background: green;
+    float: left;
+}
+.block-B {
+    height: 80px;
+    width: 24.4%;
+    background: green;
+    float: right;
+}
+.block-C {
+    width: 24.4%;
+    height: 400px;
+    background: gold;
+    float: left;
+    margin-top: 5px;
+}
+.block-D {
+    height: 80px;
+    width: 49.5%;
+    float: left;
+    background: blue;
+    margin: 5px;
+}
+.block-E {
+    width: 24.4%;
+    height: 165px;
+    background: brown;
+    float: right;
+    margin-top: 5px;
+}
+.block-F {
+     height: 80px;
+     width: 49.5%;
+     float: left;
+     background: blue;
+    margin-left: 5px;
+}
+.block-G {
+    width: 48.8%;
+    height: 230px;
+    background: blue;
+    float: left;
+    margin: 5px;
+}
+.block-H {
+    width: 23.8%;
+    height: 230px;
+    float: right;
+    background: brown;
+    margin-top: 5px;
+}
+.block-I {
+    height: 80px;
+    width: 100%;
+    background: aqua;
+    float: left;
+}
